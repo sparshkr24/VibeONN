@@ -10,7 +10,7 @@ VibeONN is a Social Media App where its users can post events happening in their
 > 2. Their friends and family can like the post.
 > 3. Users can EDIT and DELETE posts.
 
-### Current working on adding **user Authentication**, **Personal Dashboard** and **Chat functionality** using socket.io to make this project a fully fledged Social Media App.
+### Current working on adding _user Authentication_, _Personal Dashboard_ and _Chat functionality_ using socket.io to make this project a fully fledged Social Media App.
 
 
 ### Tech Stack
