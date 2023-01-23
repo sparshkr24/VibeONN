@@ -6,7 +6,8 @@ import Posts from './components/Posts/Posts';
 import Form from './components/Form/Form';
 import { getPosts } from './actions/posts';
 import useStyles from './styles';
-import memories from './images/cam.png';
+import memories from './images/VibeONN.png';
+import R from './images/R.png';
 
 const App = () => {
   const [currentId, setCurrentId] = useState(0);
@@ -20,8 +21,10 @@ const App = () => {
   return (
     <Container maxWidth="100%">
       <AppBar className={classes.appBar} position="static" color="inherit">
-        <Typography className={classes.heading} variant="h2" align="center">Sn𝕒pTime</Typography>
+        {/* <Typography className={classes.heading} variant="h2" align="center">DAZZLE</Typography> */}
+        {/* <img className={classes.image} src={R} alt="icon" height="60" /> */}
         <img className={classes.image} src={memories} alt="icon" height="60" />
+        
       </AppBar>
       <Grow in>
         <Container maxWidth="100%">
