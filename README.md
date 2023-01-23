@@ -10,15 +10,15 @@ VibeONN is a Social Media App where its users can post interesting events happen
 > 2. Their friends and family can like the post.
 > 3. Users can EDIT and DELETE posts.
 
-### Current working on adding _User Authentication_, _Personal Dashboard_ and _Chat functionality_ using socket.io to make this project a fully fledged Social Media App.
+### Current working on adding _User Authentication_, _Personal Dashboard_ and _Chat functionality_ using socket.io to make this project a FULL FLEDGED Social Media App.
 
 
 ### Tech Stack
 > MERN
 
 ### HOW TO RUN
-> 1. Clone the Project in a local Directory
-> 2. Run _**npm i && npm start**_ for both server and client
+> 1. Clone the Project in a local Directory.
+> 2. Run _**npm i && npm start**_ for both server and client.
 
 ## Available Scripts
 
