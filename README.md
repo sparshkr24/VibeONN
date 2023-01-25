@@ -4,7 +4,7 @@
 <img src = "https://github.com/sparshkr24/VibeONN/blob/master/client/src/images/Screenshot%20(344).png">
 
 ## Description
-VibeONN is a Social Media App where its users can post interesting events happening in their life and share memories with friends and family
+VibeONN is a **FULL STACK** Social Media App where its users can post interesting events happening in their life and share memories with friends and family. It can perform all the CRUD operations.
 
 ## Current Functionalities
 > 1. Users can post events with picture, a title, short description/caption and related tags.
@@ -15,7 +15,9 @@ VibeONN is a Social Media App where its users can post interesting events happen
 
 
 ### Tech Stack
-> MERN
+> MongoDB Atlas
+> React.js
+> Node.js with express.js
 
 ### HOW TO RUN
 > 1. Clone the Project in a local Directory.
